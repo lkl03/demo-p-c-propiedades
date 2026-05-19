@@ -1,2 +1,7 @@
-# demo-p-c-propiedades
-Demo web para P.C. PROPIEDADES — diseñada por eterlab.
+# P.C. PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
